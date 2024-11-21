@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Hoc Code Game\\LinearEquationResolver\\LinearEquationResolver\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{45CD4BEC-2BAB-4169-BB69-527E1A50BE32}|LinearEquationResolver\\LinearEquationResolver.csproj|d:\\hoc code game\\linearequationresolver\\linearequationresolver\\linearequationresolver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45CD4BEC-2BAB-4169-BB69-527E1A50BE32}|LinearEquationResolver\\LinearEquationResolver.csproj|solutionrelative:linearequationresolver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Hoc Code Game\\LinearEquationResolver\\LinearEquationResolver\\LinearEquationResolver\\Program.cs",
+              "RelativeDocumentMoniker": "LinearEquationResolver\\Program.cs",
+              "ToolTip": "D:\\Hoc Code Game\\LinearEquationResolver\\LinearEquationResolver\\LinearEquationResolver\\Program.cs",
+              "RelativeToolTip": "LinearEquationResolver\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T14:24:30.286Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
